@@ -1,0 +1,2 @@
+continue..
+those who are somebody’s father. Similarly if we want to define square numbers (say), we must first define what we mean by saying that one number is the square of another, and then define square numbers as those that are the squares of other numbers. This kind of procedure is very common, and it is important to realize that it is legitimate and even often necessary. The foregoing consists of Chapter II from Russell’s introduction to mathematical philosophy .
